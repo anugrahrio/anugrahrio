@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @anugrahrio
 - 👀 I’m interested in QA Automation with selenium.
 - 🌱 I’m currently learning APPIUM
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
+- 🖥️ I'm currently working on PT. Indomarco Prismatama as Software Support Development
 - 📫 How to reach me rio.anugrah@hotmail.com
 
 <!---
