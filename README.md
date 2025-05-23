@@ -27,7 +27,7 @@
 
 📊 **Tools & Technologies**
 - SQL Server, PowerShell, Confins, Creatio CRM
-- Windows Server, Task Scheduler, FTP, Velvetel, Beesender
+- Windows Server, Task Scheduler, FTP
 - Jira, Git, Middleware/API analysis and documentation
 
 ---
