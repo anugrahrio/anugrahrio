@@ -78,4 +78,4 @@
 
 ---
 
-> _"Technology is best when it brings people together."_ – Matt Mullenweg
+> _"Great support isn't just solving problems — it's building systems that prevent them."_ – Rio Anugrah
