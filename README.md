@@ -71,10 +71,20 @@
 
 ---
 
+## 📁 Project Repositories
+
+### 📂 [List Mini Project](https://github.com/anugrahrio/ListMiniProject)
+Kumpulan mini proyek yang saya kerjakan, meliputi proses enhancement, improvement, dan issue handling aplikasi korporat.
+
+### 📂 [UAT Work List](https://github.com/anugrahrio/UATWorkList)
+Dokumentasi file UAT sebagai bagian dari proses verifikasi akhir terhadap sistem sebelum go-live.
+
+---
+
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/rioanugrah/]
-- 📧 Email: [rio.anugrah@hotmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/rioanugrah/](https://www.linkedin.com/in/rioanugrah/)
+- 📧 Email: [rio.anugrah@hotmail.com](mailto:rio.anugrah@hotmail.com)
 
 ---
 
