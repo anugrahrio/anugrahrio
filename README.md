@@ -3,7 +3,7 @@
 🎯 **Experienced and professional IT Collaborator** with over **6 years** of hands-on experience supporting and developing:
 - 🏪 **Warehouse Management Systems** (Retail Operations)
 - 💰 **Core Finance Systems** (Enterprise-level Applications)
-
+- 🤝 Customer Relationship Management (CRM) Solutions
 ---
 
 ## 💼 What I Do
