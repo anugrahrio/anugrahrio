@@ -70,10 +70,13 @@
 - Identified COA entries with unrounded values  
 - Implemented auto-rounding mechanism to enforce accounting consistency  
 
+### 🤝 Customer Relationship Management (CRM)
+
 #### 7. CRM Creatio for Contact Center
-- Integrated Creatio CRM with **Velvetel SIP Trunk** for voice calls  
+- Integrated Creatio CRM with **Velvetel SIP Trunk** for incoming voice calls  
 - Connected **Beesender** plugin for WhatsApp-based customer service  
-- Allowed agents to handle tickets from phone/chat in one platform  
+- Allowed agents to handle tickets from phone/chat in one platform
+- Developed WhatsApp Chatbot to automatically respond and route customer inquiries  
 
 ---
 
